@@ -1,1 +1,1 @@
-# dante_power.github
+# Repository for all the python projects I have worked on
